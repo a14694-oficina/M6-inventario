@@ -80,7 +80,3 @@ Coloque os seguintes ficheiros no diretório raiz do seu servidor web (ex: `htdo
 ## ⚠️ Segurança
 
 **ATENÇÃO:** O ficheiro `config.php` fornecido continha credenciais de acesso à base de dados em texto simples. **É crucial que altere estas credenciais imediatamente** e utilize variáveis de ambiente ou um método de gestão de segredos mais seguro em ambientes de produção.
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Se tiver sugestões ou melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
