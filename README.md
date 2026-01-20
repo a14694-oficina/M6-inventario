@@ -47,7 +47,9 @@ O projeto encontra-se organizado da seguinte forma:
 - Alterações feitas por sugestões da IA.
 
 ## 🚧 Dificuldades Encontradas
-
+Durante o desenvolvimento do projeto, surgiram algumas dificuldades, tais como:
+- Corrigir erros de ligação à base de dados e queries SQL
+Estas dificuldades foram ultrapassadas com testes, correções e apoio da IA.
 
 ## 📚 Aprendizagens Realizadas
 Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
