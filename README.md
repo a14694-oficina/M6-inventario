@@ -1,4 +1,10 @@
-# 💻 M6 - Inventário: Sistema de Inventário de Computadores
+# 💻 Sistema de Inventário de Computadores
+
+## 👤 Identificação
+- **Nome do aluno:** Guilherme Osório 
+- **Turma:** 2ºI
+- **Disciplina:** REDES – M6 – Programação de Sistemas de Informação  
+- **Curso:** GPSI – 2.º Ano
 
 ## 📝 Descrição do Projeto
 
