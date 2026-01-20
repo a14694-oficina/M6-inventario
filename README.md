@@ -41,6 +41,10 @@ O projeto encontra-se organizado da seguinte forma:
 - Ajudou a compreender erros e respetivas correções;
 - Sugeriu melhorias visuais ou estruturais.
 
+## ✍️ Trabalho Desenvolvido Manualmente
+Descrição das partes do projeto que foram desenvolvidas diretamente pelo aluno, por exemplo:
+- Decisões de organização do projeto;
+- Alterações feitas às sugestões da IA.
 
 ## ⚙️ Configuração e Instalação
 
