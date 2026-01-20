@@ -25,14 +25,23 @@ O projeto encontra-se organizado da seguinte forma:
 - `index.php` — Página principal com listagem de salas e computadores  
 - `config.php` — Ligação à base de dados  
 - `detalhe.php` — Página com informações detalhadas de cada computador  
-- `css/` — Ficheiros de estilos (layout e cores)  
+- `css/` — Ficheiros de estilos (layout e cores)
 
+## 🤖 Utilização da Inteligência Artificial (IA)
+### 🔹 Onde utilizei IA
 
-## 🛠️ Tecnologias Utilizadas
+- Correção de código PHP    
+- Melhoria do interface gráfico (CSS / layout)  
+- Implementação da funcionalidade de pesquisa  
+- Organização do dashboard  
+- Resolução de erros ou problemas técnicos  
 
-*   **Backend:** PHP
-*   **Base de Dados:** MySQL (com extensão PDO)
-*   **Frontend:** HTML5 e CSS3 (estilos inline e básicos)
+### 🔹 Como utilizei a IA
+Descrição breve do tipo de apoio recebido, por exemplo:
+- A IA sugeriu exemplos de código que foram adaptados;
+- Ajudou a compreender erros e respetivas correções;
+- Sugeriu melhorias visuais ou estruturais.
+
 
 ## ⚙️ Configuração e Instalação
 
