@@ -13,6 +13,7 @@ Este projeto é um sistema web simples desenvolvido em **PHP** para gerir os **c
 O sistema utiliza **PHP** para a lógica da aplicação e **SQL** para a base de dados.
 
 ## 🚀 Funcionalidades
+Lista das funcionalidades que foram efetivamente implementadas no projeto:
 
 *   **Visualização por Sala:** Permite selecionar uma sala e listar todos os computadores associados.
 *   **Contagem de Computadores:** Mostra o número total de computadores na sala selecionada.
