@@ -13,7 +13,6 @@ Este projeto é um sistema web simples desenvolvido em **PHP** para gerir os **c
 O sistema utiliza **PHP** para a lógica da aplicação e **SQL** para a base de dados.
 
 ## 🚀 Funcionalidades
-Lista das funcionalidades que foram efetivamente implementadas no projeto:
 
 *   **Visualização por Sala:** Permite selecionar uma sala e listar todos os computadores associados.
 *   **Contagem de Computadores:** Mostra o número total de computadores na sala selecionada.
@@ -43,12 +42,12 @@ O projeto encontra-se organizado da seguinte forma:
 - Sugeriu melhorias visuais ou estruturais.
 
 ## ✍️ Trabalho Desenvolvido Manualmente
-Descrição das partes do projeto que foram desenvolvidas diretamente pelo aluno, por exemplo:
+
 - Decisões de organização do projeto;
 - Alterações feitas por sugestões da IA.
 
 ## 🚧 Dificuldades Encontradas
-Descrição das principais dificuldades técnicas ou conceptuais encontradas durante o desenvolvimento do projeto.
+
 
 ## 📚 Aprendizagens Realizadas
 Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
