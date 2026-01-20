@@ -49,6 +49,7 @@ O projeto encontra-se organizado da seguinte forma:
 ## 🚧 Dificuldades Encontradas
 Durante o desenvolvimento do projeto, surgiram algumas dificuldades, tais como:
 - Corrigir erros de ligação à base de dados e queries SQL
+
 Estas dificuldades foram ultrapassadas com testes, correções e apoio da IA.
 
 ## 📚 Aprendizagens Realizadas
