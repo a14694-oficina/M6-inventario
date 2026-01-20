@@ -37,7 +37,6 @@ O projeto encontra-se organizado da seguinte forma:
 - Resolução de erros ou problemas técnicos  
 
 ### 🔹 Como utilizei a IA
-Descrição breve do tipo de apoio recebido, por exemplo:
 - A IA sugeriu exemplos de código que foram adaptados;
 - Ajudou a compreender erros e respetivas correções;
 - Sugeriu melhorias visuais ou estruturais.
