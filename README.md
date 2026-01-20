@@ -44,7 +44,7 @@ O projeto encontra-se organizado da seguinte forma:
 ## ✍️ Trabalho Desenvolvido Manualmente
 Descrição das partes do projeto que foram desenvolvidas diretamente pelo aluno, por exemplo:
 - Decisões de organização do projeto;
-- Alterações feitas às sugestões da IA.
+- Alterações feitas por sugestões da IA.
 
 ## 🚧 Dificuldades Encontradas
 Descrição das principais dificuldades técnicas ou conceptuais encontradas durante o desenvolvimento do projeto.
