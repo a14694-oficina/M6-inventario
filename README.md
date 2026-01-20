@@ -8,7 +8,7 @@
 
 ## 📝 Descrição do Projeto
 
-Este projeto é um sistema web simples desenvolvido em **PHP** para gerir os ** computadores** em diferentes salas. Permite nos ver a lista de computadores por sala e consultar os detalhes de hardware e software instalado em cada máquina.
+Este projeto é um sistema web simples desenvolvido em **PHP** para gerir os **computadores** em diferentes salas. Permite nos ver a lista de computadores por sala e consultar os detalhes de hardware e software instalado em cada máquina.
 
 O sistema utiliza **PHP** para a comunicação com a base de dados **MySQL**.
 
