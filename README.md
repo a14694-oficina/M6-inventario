@@ -46,67 +46,15 @@ Descrição das partes do projeto que foram desenvolvidas diretamente pelo aluno
 - Decisões de organização do projeto;
 - Alterações feitas às sugestões da IA.
 
-## ⚙️ Configuração e Instalação
+## 🚧 Dificuldades Encontradas
+Descrição das principais dificuldades técnicas ou conceptuais encontradas durante o desenvolvimento do projeto.
 
-Para colocar este projeto a funcionar, siga os passos abaixo:
-
-### 1. Base de Dados
-
-O projeto está configurado para ligar a uma base de dados MySQL. É necessário criar a estrutura da base de dados.
-
-**Estrutura da Base de Dados (Esquema Deduzido):**
-
-| Tabela | Colunas Chave (Exemplo) | Relações |
-| :--- | :--- | :--- |
-| `salas` | `id_sala`, `nome_sala`, `localizacao` | - |
-| `computadores` | `id_computador`, `id_sala` (FK), `nome_computador`, `processador`, `ram`, `armazenamento`, `sistema_operativo` | `id_sala` -> `salas.id_sala` |
-| `software` | `id_software`, `nome_software`, `versao` | - |
-| `computador_software` | `id_computador` (FK), `id_software` (FK) | Chave composta (`id_computador`, `id_software`) |
-
-**Nota:** O ficheiro ZIP não continha o script SQL para criar as tabelas e inserir dados. Deve criar estas tabelas manualmente ou através de um script SQL.
-
-### 2. Configuração da Ligação
-
-Edite o ficheiro `config.php` com as suas credenciais de base de dados.
-
-**`config.php` (Exemplo de Configuração):**
-
-```php
-<?php
-$host = "localhost"; // Altere para o seu host
-$dbname = "inventario_db"; // Altere para o nome da sua BD
-$user = "root"; // Altere para o seu utilizador
-$pass = ""; // Altere para a sua palavra-passe
-
-try {
-    $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass);
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-} catch (PDOException $e) {
-    die("Erro na ligação à BD: " . $e->getMessage());
-}
-?>
-```
-
-### 3. Ficheiros do Projeto
-
-Coloque os seguintes ficheiros no diretório raiz do seu servidor web (ex: `htdocs` no XAMPP ou `www` no WAMP):
-
-*   `config.php`
-*   `index.php`
-*   `detalhe.php`
-
-## 📂 Estrutura de Ficheiros
-
-```
-.
-├── config.php        # Configuração da ligação à base de dados
-├── detalhe.php       # Página de detalhes do computador
-└── index.php         # Página principal com a lista de salas e computadores
-```
-
-## ⚠️ Segurança
-
-**ATENÇÃO:** O ficheiro `config.php` fornecido continha credenciais de acesso à base de dados em texto simples. **É crucial que altere estas credenciais imediatamente** e utilize variáveis de ambiente ou um método de gestão de segredos mais seguro em ambientes de produção.
+## 📚 Aprendizagens Realizadas
+Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
+- Ligação entre PHP e base de dados;
+- Organização de um projeto web;
+- Utilização consciente da Inteligência Artificial;
+- Importância da documentação do código.
 
 ## 🔗 Link do trabalho
 https://a14694-oficina.infinityfree.me/m6-inventario/
