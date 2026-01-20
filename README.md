@@ -19,6 +19,15 @@ O sistema utiliza **PHP** para a lógica da aplicação e **SQL** para a base de
 *   **Detalhes do Computador:** Ao clicar em "Ver detalhes", o utilizador é redirecionado para uma página que mostra as especificações de hardware (Processador, RAM, Armazenamento, Sistema Operativo) e a lista de software instalado.
 *   **Design Simples:** Interface básica e funcional em HTML/CSS.
 
+## 🧱 Estrutura Geral do Projeto
+O projeto encontra-se organizado da seguinte forma:
+
+- `index.php` — Página principal com listagem de salas e computadores  
+- `config.php` — Ligação à base de dados usando PDO  
+- `detalhe.php` — Página com informações detalhadas de cada computador  
+- `css/` — Ficheiros de estilos (layout e cores)  
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 *   **Backend:** PHP
