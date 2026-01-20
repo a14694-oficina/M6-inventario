@@ -23,7 +23,7 @@ O sistema utiliza **PHP** para a lógica da aplicação e **SQL** para a base de
 O projeto encontra-se organizado da seguinte forma:
 
 - `index.php` — Página principal com listagem de salas e computadores  
-- `config.php` — Ligação à base de dados usando PDO  
+- `config.php` — Ligação à base de dados  
 - `detalhe.php` — Página com informações detalhadas de cada computador  
 - `css/` — Ficheiros de estilos (layout e cores)  
 
