@@ -15,8 +15,8 @@ O sistema utiliza **PHP** para a lógica da aplicação e **SQL** para a base de
 ## 🚀 Funcionalidades
 
 *   **Visualização por Sala:** Permite selecionar uma sala e listar todos os computadores associados.
-*   **Contagem de Computadores:** Exibe o número total de computadores na sala selecionada.
-*   **Detalhes do Computador:** Ao clicar em "Ver detalhes", o utilizador é redirecionado para uma página que exibe as especificações de hardware (Processador, RAM, Armazenamento, Sistema Operativo) e a lista de software instalado.
+*   **Contagem de Computadores:** Mostra o número total de computadores na sala selecionada.
+*   **Detalhes do Computador:** Ao clicar em "Ver detalhes", o utilizador é redirecionado para uma página que mostra as especificações de hardware (Processador, RAM, Armazenamento, Sistema Operativo) e a lista de software instalado.
 *   **Design Simples:** Interface básica e funcional em HTML/CSS.
 
 ## 🛠️ Tecnologias Utilizadas
