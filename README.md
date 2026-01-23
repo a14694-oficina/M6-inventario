@@ -10,7 +10,7 @@
 
 Este projeto é um sistema web simples desenvolvido em **PHP** para gerir os **computadores** em diferentes salas. Permite nos ver a lista de computadores por sala e consultar os detalhes de hardware e software instalado em cada máquina.
 
-O sistema utiliza **PHP** para a lógica da aplicação e **SQL** para a base de dados.
+O sistema utiliza **PDO** para a lógica da aplicação e **SQL** para a base de dados.
 
 ## 🚀 Funcionalidades
 
