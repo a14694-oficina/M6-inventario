@@ -45,6 +45,7 @@ O projeto encontra-se organizado da seguinte forma:
 
 - Decisões de organização do projeto;
 - Alterações feitas por sugestões da IA.
+- Github
 
 ## 🚧 Dificuldades Encontradas
 Durante o desenvolvimento do projeto, surgiram algumas dificuldades, tais como:
